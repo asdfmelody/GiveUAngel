@@ -15,12 +15,8 @@ Facebook으로 자신의 기부현황을 업로드 하여 기부에 대한 관�
 총 기부금액이 기준치 금액 이상에 도달했을 경우, 본인만의 별자리를 만들어 기부 내역을 시각적으로 확인하며 성취감을 느낄 수 있음.
 
 6. 폴더 별 정리
-agency : 메세지 연동
-
-agency_list : agency_list.dart 데코 폴더
-
-donation_list : donation_list.dart 데코 폴더
-
-tab : 왼쪽 상단 바를 눌렀을 때 나오는 카테고리 목록
-
-widgets : 
+- agency : 메세지 연동
+- agency_list : agency_list.dart 데코 폴더
+- donation_list : donation_list.dart 데코 폴더
+- tab : 왼쪽 상단 바를 눌렀을 때 나오는 카테고리 목록
+- widgets : 
