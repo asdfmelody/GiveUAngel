@@ -1,0 +1,17 @@
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+*.log
+<<<<<<< HEAD
+=======
+
+>>>>>>> 29dd93710675d6e15dd8ce74c642e84d57ec448c
+
+# Visual Studio Code related
+.vscode/
+
+# Flutter/Dart/Pub related
+.packages
+/build/

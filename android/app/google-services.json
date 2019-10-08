@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "705601947284",
+    "firebase_url": "https://give-u-angel-9f90c.firebaseio.com",
+    "project_id": "give-u-angel-9f90c",
+    "storage_bucket": "give-u-angel-9f90c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705601947284:android:163b915c8f180137",
+        "android_client_info": {
+          "package_name": "com.giveu.angel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705601947284-8m18fv23jtg1n950ak8fvtna1jhcdr33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.giveu.angel",
+            "certificate_hash": "35897e63b3726a8012d84c206923feff616a4034"
+          }
+        },
+        {
+          "client_id": "705601947284-lbv3vra4rie49b0pp8n542mk5n8ifgmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOkUIk15X2ZkGGUyHld1d8y7v-BLp8QVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705601947284-lbv3vra4rie49b0pp8n542mk5n8ifgmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
