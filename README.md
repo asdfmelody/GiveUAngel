@@ -19,4 +19,4 @@ Facebook으로 자신의 기부현황을 업로드 하여 기부에 대한 관�
 - agency_list : agency_list.dart 데코 폴더
 - donation_list : donation_list.dart 데코 폴더
 - tab : 왼쪽 상단 바를 눌렀을 때 나오는 카테고리 목록
-- widgets : 로그인, SNS
+- widgets : 로그인, SNS연동 
